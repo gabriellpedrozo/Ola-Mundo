@@ -1,6 +1,6 @@
-# Olá, Mundo!
-Primeiro repositorio do curso git e git hub
+# Hello, World
+First repository for the Git and GitHub course
 
-Repositório criado durante uma aula!
+Repository created during a class!
 
-Adicionei essa linha diretamente do site, que impressionante!
+I added this line directly from the website, how impressive!
